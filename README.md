@@ -1,8 +1,10 @@
 <p float="middle" style="pointer-events:none;">
+  <a href="https://www.qworld.net" target="_blank">
   <img align="middle" src="qworld/images/QWorld.png" width="10%"/>
   <picture>
   <img align="middle" width="82%"/>
   </picture>
+  <a href="https://www.cqtech.org/" target="_blank">
   <img align="middle" src="cqtech/images/bleu_back_white_text_zoomed.png" width="6%"/>
   
 </p>
