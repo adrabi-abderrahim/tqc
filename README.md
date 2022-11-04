@@ -1,7 +1,7 @@
 <p float="middle" style="pointer-events:none;">
   <img align="middle" src="qworld/images/QWorld.png" width="10%"/>
   <picture>
-  <img align="middle" width="74%"/>
+  <img align="middle" width="82%"/>
   </picture>
   <img align="middle" src="cqtech/images/bleu_back_white_text_zoomed.png" width="6%"/>
   
