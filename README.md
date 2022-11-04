@@ -29,7 +29,7 @@ The text and figures are licensed under the Creative Commons Attribution 4.0 Int
 The code snippets in the notebooks are licensed under Apache License 2.0, available at http://www.apache.org/licenses/LICENSE-2.0.
 
 ## Credits
-TQC-QCourse has been prepared by Abdellah Tounsi, Mohamed Messaoud Louamri, Nacer eddine Belaloui and Mohamed Taha Rouabah as part of [Constantine Quantum Technologies (CQTech)'s](www.cqtech.org) quantum education activities. The valuable contribution of  Prof. Achour Benslama (proofreading and corrections) helped improving the course's content.<br>
+TQC-QCourse has been prepared by Abdellah Tounsi, Nacer eddine Belaloui, Mohamed Taha Rouabah, and Mohamed Messaoud Louamri as part of [Constantine Quantum Technologies (CQTech)'s](www.cqtech.org) quantum education activities. The valuable contribution of  Prof. Achour Benslama (proofreading and corrections) helped improving the course's content.<br>
 Part of TQC-QCourse was prepared based on the material produced by Constantine Quantum Technologies team in the [QWorld Quantum Hardware-Education-Challenge, Womanium Quantum Hackathon 2022](https://github.com/womanium-quantum/Quantum-Hardware-Education-Challenge---QWorld).<br>
 TQSim simulator has been deveopped by the course's authors based on the PhD thesis work of Abdellah Tounsi.
 
