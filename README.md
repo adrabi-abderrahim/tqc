@@ -10,9 +10,9 @@
 Welcome to  Topological Quantum Computing (TQC) QCourse!
 
 
-TQC-QCourse is an introductory course to the facinating quantum computing archetecture based on the concept of toplogy introduced by [Kitaev in 1997](https://arxiv.org/pdf/quant-ph/9707021.pdf).
+TQC-QCourse is an introductory course to the facinating quantum computing architecture based on the concept of toplogy introduced by [Kitaev in 1997](https://arxiv.org/pdf/quant-ph/9707021.pdf).
 
-Most implementations of a quantum computer are highly susceptible to errors. A major source of error in quantum computation is decoherence, caused by interactions between the quantum state and the environment. Local perturbations can also cause errors in many quantum systems, as can imperfections in the execution of quantum operations. This results in notable overheads devoted to error correction schemes, which only work in computers with a sufficiently low basic error rate, which makes implementing such a quantum computer very difficult. One way to mitigate the effect of these errors is in using topological quantum computing. These topological quantum computers can be implemented using non-Abelian anyons, which are quasiparticles in two-dimensional systems which exhibit exotic exchange statistics, beyond a simple phase change.
+Most implementations of a quantum computer are highly susceptible to errors. A major source of error in quantum computation is decoherence, caused by interactions between the quantum state and the environment. Local perturbations can also cause errors in many quantum systems, as can imperfections in the execution of quantum operations. This results in notable overheads devoted to error correction schemes, which only work in computers with a sufficiently low basic error rate, which makes implementing such a quantum computer very difficult. One way to mitigate the effect of these errors is in using topological quantum computing. These topological quantum computers can be implemented using non-Abelian anyons, which are quasiparticles in two-dimensional systems that exhibit exotic exchange statistics, beyond a simple phase change.
 
 ## Prerequisite
 The prerequisite for TQC-QCourse is having completed the [QBronze](https://qworld.net/workshop-bronze/) material or a similar course with basic knowledge of complex numbers.
