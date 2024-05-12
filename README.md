@@ -2,7 +2,7 @@
     <img align="middle" src="qworld/images/QWorld.png" width="18%"/>
   </a>
   <a href="https://www.cqtech.org/">
-    <img align="right" src="cqtech/images/bleu_back_white_text_zoomed.png" width="8%"/>
+    <img align="right" src="cqtech/images/logo blue+blue.png" width="25%"/>
   </a>
 
 
@@ -37,8 +37,9 @@ The text and figures are licensed under the Creative Commons Attribution 4.0 Int
 The code snippets in the notebooks are licensed under Apache License 2.0, available at http://www.apache.org/licenses/LICENSE-2.0.
 
 ## Credits
-TQC-QCourse has been prepared by Abdellah Tounsi, Nacer eddine Belaloui, Mohamed Messaoud Louamri and Mohamed Taha Rouabah as part of Constantine Quantum Technologies (CQTech)'s quantum education activities. The valuable contribution of Prof. Achour Benslama (proofreading and corrections) helped to improve the course's content.
+TQC-QCourse has been prepared by Abdellah Tounsi, Nacer eddine Belaloui, Mohamed Messaoud Louamri, and Mohamed Taha Rouabah as part of Constantine Quantum Technologies (CQTech)'s quantum education activities. The valuable contribution of Prof. Achour Benslama (proofreading and corrections) helped to improve the course's content.
 Part of TQC-QCourse was prepared based on the material produced by Constantine Quantum Technologies team in the QWorld Quantum Hardware-Education-Challenge, Womanium Quantum Hackathon 2022.
 TQSim simulator has been developed by the course's authors based on the PhD thesis work of Abdellah Tounsi.
+The toric code notebook was prepared with the contribution of Amani Mimoun, Constantine Quantum Technologies (CQTech)'s intern.
 
 
